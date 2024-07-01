@@ -1,0 +1,15 @@
+export { default as AgentsSvg } from "./src/assets/svg-codes/Agents";
+export { default as BillingSvg } from "./src/assets/svg-codes/Billing";
+export { default as DashboardSvg } from "./src/assets/svg-codes/Dashboard";
+export { default as DataSourcesSvg } from "./src/assets/svg-codes/DataSources";
+export { default as DeliverablesSvg } from "./src/assets/svg-codes/Deliverables";
+export { default as NotificationMessageSvg } from "./src/assets/svg-codes/Notification-Message";
+export { default as ProjectsSvg } from "./src/assets/svg-codes/Projects";
+export { default as SearchIconSvg } from "./src/assets/svg-codes/Search-Icon";
+export { default as TemplatesSvg } from "./src/assets/svg-codes/Templates";
+export { default as ToolsSvg } from "./src/assets/svg-codes/Tools";
+export { default as UpDownBtnSvg } from "./src/assets/svg-codes/UpDownBtn";
+export { default as UsageSvg } from "./src/assets/svg-codes/Usage";
+export { default as HelpSvg } from "./src/assets/svg-codes/Help";
+export { default as SettingsSvg } from "./src/assets/svg-codes/Settings";
+export { default as CreditsSvg } from "./src/assets/svg-codes/Credits";
