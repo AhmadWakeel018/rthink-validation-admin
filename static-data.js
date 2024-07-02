@@ -17,47 +17,47 @@ const sidebarLinks = [
   {
     icon: DashboardSvg,
     heading: "Dashboard",
-    link: "/",
+    link: "/dashboard",
   },
   {
     icon: ProjectsSvg,
     heading: "Projects",
-    link: "/",
+    link: "/projects",
   },
   {
     icon: TemplatesSvg,
     heading: "Templates",
-    link: "/",
+    link: "/templates",
   },
   {
     icon: AgentsSvg,
     heading: "Agents",
-    link: "/",
+    link: "/agents",
   },
   {
     icon: ToolsSvg,
     heading: "Tools",
-    link: "/",
+    link: "/tools",
   },
   {
     icon: DeliverablesSvg,
     heading: "Deliverables",
-    link: "/",
+    link: "/deliverables",
   },
   {
     icon: DataSourcesSvg,
     heading: "Data Sources",
-    link: "/",
+    link: "/datasource",
   },
   {
     icon: UsageSvg,
     heading: "Usage",
-    link: "/",
+    link: "/usage",
   },
   {
     icon: BillingSvg,
     heading: "Billing",
-    link: "/",
+    link: "/billing",
   },
 ];
 
@@ -65,17 +65,17 @@ const sidebarFooterLinks = [
   {
     icon: HelpSvg,
     heading: "Help",
-    link: "/",
+    link: "/help",
   },
   {
     icon: SettingsSvg,
     heading: "Settings",
-    link: "/",
+    link: "/settings",
   },
   {
     icon: CreditsSvg,
     heading: "Credits 3,000/3,000",
-    link: "/",
+    link: "/credits",
   },
 ];
 
